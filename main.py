@@ -34,3 +34,20 @@ Product.objects.get_or_create(upc="89283", name="Donuts", price=2.00)
 
 for u in Product.objects.all():
     print(f'Name: {u.name} \tUPC: {u.upc}  \tPrice: {u.price}')
+
+# Scanner functionality
+def scan_product():
+    while True:
+        upc = input("Scan or enter product UPC (or type 'exit' to quit): ").strip()
+        if upc.lower() == 'exit':
+            print("Exiting scanner...")
+            break
+
+        try:
+            product = Product.objects.get(upc=upc)
+            print(f"Product: {product.name} | Price: ${product.price:.2f}\n")
+        except Product.DoesNotExist:
+            print("Product not found. Please try again.\n")
+
+if __name__ == "__main__":
+    scan_product()
