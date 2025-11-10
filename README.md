@@ -2,6 +2,32 @@
 Django ORM Standalone
 =====================
 
+# SOFE3650 Assignment 3: Django Frameworks and Energy Quality Attribute
+**Group 12**
++ Drew Glover - 100914229
++ Reid Hillis - 100915844
++ Ebubechukwu Agwagah - 100937022
+
+Q1
+-------------------
+
+
+Q2
+-------------------
+a. 
+
+
+b.
+
+
+<br>
+
+| Group Member  | Responsibility |
+| ------------- | ------------- |
+| Reid Hillis   | Q1 A & Q2 B  |
+| Drew Glover   | Q1 B & Q2 B  |
+| Ebubechukwu Agwagah  | Q2 A  |
+
 ![Django](https://img.shields.io/badge/Django_ORM-Standalone-blue)
 ![Python](https://img.shields.io/badge/Python-yellow)
 
