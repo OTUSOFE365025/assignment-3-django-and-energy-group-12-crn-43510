@@ -34,6 +34,7 @@ Product.objects.get_or_create(upc="89283", name="Donuts", price=2.00)
 
 for u in Product.objects.all():
     print(f'Name: {u.name} \tUPC: {u.upc}  \tPrice: {u.price}')
+print("")
 
 # Scanner functionality
 def scan_product():
