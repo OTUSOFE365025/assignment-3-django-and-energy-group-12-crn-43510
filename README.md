@@ -10,14 +10,21 @@ Django ORM Standalone
 
 Q1
 -------------------
+a. <br>
+The models.py file was modified to change the sample user model to a product model. Modified it from just a name field to having a UPC, name, and price field. Then, the main.py file was modified from seeding users to seeding the products. This was done using a get_or_create statement instead of create so that duplicates are not created each run. Finally, all products info was printed.
 
+b. <br>
+...
+
+Application being used:
+<img width="862" height="306" alt="image" src="https://github.com/user-attachments/assets/f64c9113-e34e-4d3e-91c3-059f3d21ac3e" />
 
 Q2
 -------------------
-a. 
+a. <br>
 
 
-b.
+b. <br>
 
 
 <br>
