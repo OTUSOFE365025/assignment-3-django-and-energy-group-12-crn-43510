@@ -19,22 +19,7 @@ The main.py file was modified to prompt the user for an input, if the input is v
 Application being used:
 <img width="862" height="306" alt="image" src="https://github.com/user-attachments/assets/f64c9113-e34e-4d3e-91c3-059f3d21ac3e" />
 
-Q2
--------------------
-a. <br>
-<img width="791" height="379" alt="image" src="https://github.com/user-attachments/assets/289a1863-7bfe-40e6-babf-2f9200651862" />
-
-b. <br>
-The first architectural or design tactic that could improve energy efficiency in our scenario is the schedule resources tactic. This would be applied by having the health monitoring app perform tasks that need a lot of energy like data uploads or report generation, only at certain times. For example, when the phone is charging or connected to Wi-Fi. This helps to reduce the number of times the device processors are activated, which gives more consistent power consumption.
-
-The second...
-
-
-| Group Member  | Responsibility |
-| ------------- | ------------- |
-| Reid Hillis   | Q1 A & Q2 B  |
-| Drew Glover   | Q1 B & Q2 B  |
-| Ebubechukwu Agwagah  | Q2 A  |
+Q2 Submitted in Canvas drop box
 
 ![Django](https://img.shields.io/badge/Django_ORM-Standalone-blue)
 ![Python](https://img.shields.io/badge/Python-yellow)
