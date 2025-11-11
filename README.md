@@ -1,5 +1,25 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-cPJVYMd)
 Django ORM Standalone
 =====================
+
+# SOFE3650 Assignment 3: Django Frameworks and Energy Quality Attribute
+**Group 12**
++ Drew Glover - 100914229
++ Reid Hillis - 100915844
++ Ebubechukwu Agwagah - 100937022
+
+Q1
+-------------------
+a. <br>
+The models.py file was modified to change the sample user model to a product model. Modified it from just a name field to having a UPC, name, and price field. Then, the main.py file was modified from seeding users to seeding the products. This was done using a get_or_create statement instead of create so that duplicates are not created each run. Finally, all products info was printed.
+
+b. <br>
+The main.py file was modified to prompt the user for an input, if the input is valid and matches one of the UPC's in the system it will output the item name and price. If the input is not valid the system it will output "Product not found. Please try again.".
+
+Application being used:
+<img width="862" height="306" alt="image" src="https://github.com/user-attachments/assets/f64c9113-e34e-4d3e-91c3-059f3d21ac3e" />
+
+Q2 Submitted in Canvas drop box
 
 ![Django](https://img.shields.io/badge/Django_ORM-Standalone-blue)
 ![Python](https://img.shields.io/badge/Python-yellow)
