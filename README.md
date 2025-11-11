@@ -22,12 +22,13 @@ Application being used:
 Q2
 -------------------
 a. <br>
-
+<img width="791" height="379" alt="image" src="https://github.com/user-attachments/assets/289a1863-7bfe-40e6-babf-2f9200651862" />
 
 b. <br>
+The first architectural or design tactic that could improve energy efficiency in our scenario is the schedule resources tactic. This would be applied by having the health monitoring app perform tasks that need a lot of energy like data uploads or report generation, only at certain times. For example, when the phone is charging or connected to Wi-Fi. This helps to reduce the number of times the device processors are activated, which gives more consistent power consumption.
 
+The second...
 
-<br>
 
 | Group Member  | Responsibility |
 | ------------- | ------------- |
